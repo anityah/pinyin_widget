@@ -9,7 +9,7 @@ from pypinyin import pinyin, Style
 import sys
 import requests
 
-DEEPL_API_KEY = '9e3bdca8-87b4-4288-852b-54f35829b72b:fx'  # 替换成你的真实 DeepL API 密钥
+DEEPL_API_KEY = ''  # 替换成你的真实 DeepL API 密钥
 
 
 class PinyinWidget(QWidget):
